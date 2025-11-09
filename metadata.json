@@ -1,0 +1,5 @@
+{
+  "name": "MERN Assignment Portal",
+  "description": "A comprehensive MERN stack application for managing and collecting student assignments with role-based access control for Admins, Monitors, and Students.",
+  "requestFramePermissions": []
+}
